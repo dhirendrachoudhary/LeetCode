@@ -22,7 +22,7 @@ class MinStack:
             return min(self.stack)
         else:
             return 0
-            
+
 # Your MinStack object will be instantiated and called as such:
 # obj = MinStack()
 # obj.push(val)
